@@ -1,0 +1,12 @@
+{
+    "name": "alirezamahjoor/sum",
+    "description": "plus two numbers",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Alireza Mahjoor",
+            "email": "alireza.mahjoor@gmail.com"
+        }
+    ],
+    "require": {}
+}
